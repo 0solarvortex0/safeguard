@@ -11,6 +11,7 @@
 Keep your server clean, fair, and secure with the most advanced FiveM anticheat. Stay ahead of cheaters! 🔥
 
 👉 [Join our Discord](discord.gg/xsBGBFWbnh) | 💬 Join Our Discord for Support!
+
 👉 [Videos From Detections](https://www.youtube.com/@safeguard-ac) 📺 Watch videos from safeguard!
 
 # 🚀 Safeguard Anticheat – Features List  
