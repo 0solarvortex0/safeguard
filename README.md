@@ -1,8 +1,11 @@
 # safeguard
 
 🔹 Next-Gen Aimbot Defense – Detect & block advanced aimbots with screen recording technology! 🎯📹
+
 🔹 Entity Protection – No more cheaters spawning vehicles, weapons, or peds. Blocks all unauthorized entity spawns! 🚫🚗
+
 🔹 Internal Cheat Detection – Detects and blocks top-tier cheats like Eulen, Script.gg, RedEngine, TZProject, HXCheats & more! 🔍🛑
+
 🔹 Advanced Freecam & NoClip Protection – Detects and blocks even the most sophisticated cheats, including Phaze NoClip/Freecam, TZProject, Eulen, HX, Keyser & more! 🚀❌
 
 Keep your server clean, fair, and secure with the most advanced FiveM anticheat. Stay ahead of cheaters! 🔥
